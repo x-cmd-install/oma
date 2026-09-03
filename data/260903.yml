@@ -1,11 +1,13 @@
 about:
-  description: Package Manager for AOSC OS
+  description:
+  |
+    Package Manager for AOSC OS
   license: GPL-3.0
   homepage: 
   head: 433afe3
   archived: false
   latestVersion: v1.27.8
-  collectedAt: 2026-09-03T05:14:50Z
+  collectedAt: 2026-09-03T22:35:46Z
 timeline:
   created: 2023-01-29
   lastCommit: 2026-09-01
@@ -27,7 +29,7 @@ language:
   JavaScript: 1436
   Racket: 900
   Just: 538
-totalLine: 1348492
+totalBytes: 1348492
 recent:
   last30d:
     since: 2026-08-04
