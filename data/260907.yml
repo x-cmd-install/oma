@@ -5,7 +5,7 @@ about:
   head: 4af21b8
   archived: false
   latestVersion: "v1.27.8"
-  collectedAt: 2026-09-07T05:54:48Z
+  collectedAt: 2026-09-07T18:38:05Z
 timeline:
   created: 2023-01-29
   lastCommit: 2026-09-04
@@ -86,7 +86,7 @@ total:
   commit: 4982
 ---
 path: /home/runner/.x-repo/github.com/aosc-dev/oma
-collectedAt: 2026-09-07T05:54:53Z
+collectedAt: 2026-09-07T18:38:09Z
 loc:
   Rust:
     code: 29084
@@ -162,7 +162,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T05:54:53+00:00
+  collectedAt: 2026-09-07T18:38:09+00:00
   platform:
     darwin/arm64:
       name:  oma_1.27.8-1_arm64-deepin23.deb
