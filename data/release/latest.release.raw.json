@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 5955320,
       "digest": "sha256:3d3d26d45751f88b217df680ea31d9647e874a88bb9be30be531a6ca66d40072",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-08-27T02:41:05Z",
       "updated_at": "2026-08-27T02:41:06Z",
       "browser_download_url": "https://github.com/AOSC-Dev/oma/releases/download/v1.27.8/oma_1.27.8-1_amd64-debian11.deb"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 5964380,
       "digest": "sha256:f37d33655e871c23fa12c8e775b9e47d35df466382ffd53c0897446e0eb192f9",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-08-27T02:41:11Z",
       "updated_at": "2026-08-27T02:41:11Z",
       "browser_download_url": "https://github.com/AOSC-Dev/oma/releases/download/v1.27.8/oma_1.27.8-1_amd64-ubuntu20.04.deb"
