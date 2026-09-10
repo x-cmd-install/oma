@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.27.8"
   latestRelease: "v1.27.8"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T17:54:44Z
+  collectedAt: 2026-09-10T23:52:30Z
 timeline:
   created: 2023-01-29
   lastCommit: 2026-09-09
@@ -90,7 +90,7 @@ total:
   commit: 4984
 ---
 path: /home/runner/.x-repo/github.com/aosc-dev/oma
-collectedAt: 2026-09-10T17:54:54Z
+collectedAt: 2026-09-10T23:52:34Z
 loc:
   Rust:
     code: 29094
