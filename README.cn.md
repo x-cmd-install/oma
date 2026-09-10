@@ -1,51 +1,51 @@
 # oma
 
-[中文版本](./README.cn.md)
+[English version](./README.md)
 
 Package Manager for AOSC OS
 
-![oma](https://repo.x-cmd.io/oma.svg)
+![oma](https://repo.x-cmd.io/oma.svg?lang=zh)
 
-## Install
+## 安装
 
 ```sh
 x install oma
 ```
 
-## Code insight
+## 代码洞察
 
-Total: **34,664** lines of code across **177** files in the top 5 languages.
+合计: **34,664** 行代码（覆盖前 5 种语言、共 **177** 个文件）。
 
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
 | Rust | 29,094 | 681 | 4,587 | 141 |
 | C | 1,463 | 1 | 22 | 1 |
 | FreeMarker | 1,351 | 0 | 3 | 3 |
 | Toml | 918 | 200 | 72 | 26 |
 | Json | 668 | 0 | 0 | 6 |
 
-## Source
+## 源代码
 
-- **Upstream**: <https://github.com/aosc-dev/oma>
-- **License**: GPL-3.0
+- **上游仓库**: <https://github.com/aosc-dev/oma>
+- **许可证**: GPL-3.0
 
-## Release
+## 发布
 
-- **Latest**: `v1.27.8` (2026-08-27)
-- **Last commit**: 2026-09-09
-- **Assets in release**: 22
+- **最新版本**: `v1.27.8` (2026-08-27)
+- **最近提交**: 2026-09-09
+- **Release 含资产**: 22 个
 
-## Popularity
+## 流行度
 
-- **Stars**: 235 · **Forks**: 17 · **Open issues**: 37 · **Contributors**: 113
+- **Star**: 235 · **Fork**: 17 · **开放 issue**: 37 · **贡献者**: 113
 
-## Totals (cumulative)
+## 累计统计
 
-- **Releases**: 303 · **Merged PRs**: 732 · **Open PRs**: 16 · **Closed issues**: 33 · **Open issues**: 4 · **Commits**: 4984
+- **发布数**: 303 · **已合并 PR**: 732 · **开放 PR**: 16 · **已关闭 issue**: 33 · **开放 issue**: 4 · **提交数**: 4984
 
-## Recent activity
+## 最近活动
 
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 5 | 12 | 0 | 1 | 0 | 88 |
 | last60d | 2026-07-12 | 9 | 28 | 7 | 1 | 0 | 185 |
@@ -54,10 +54,10 @@ Total: **34,664** lines of code across **177** files in the top 5 languages.
 | 360d | 2025-09-15 | 57 | 234 | 11 | 9 | 3 | 712 |
 | last720d | 2024-09-20 | 100 | 635 | 15 | 29 | 4 | 2152 |
 
-## Release assets
+## Release 资产
 
-| Asset | Size | Target |
-|-------|-----:|--------|
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
 | [oma_1.27.8-1_amd64-debian11.deb](https://github.com/aosc-dev/oma/releases/download/v1.27.8/oma_1.27.8-1_amd64-debian11.deb) | 5.7 MiB | `other` |
 | [oma_1.27.8-1_amd64-debian12.deb](https://github.com/aosc-dev/oma/releases/download/v1.27.8/oma_1.27.8-1_amd64-debian12.deb) | 5.7 MiB | `other` |
 | [oma_1.27.8-1_amd64-debian13.deb](https://github.com/aosc-dev/oma/releases/download/v1.27.8/oma_1.27.8-1_amd64-debian13.deb) | 5.7 MiB | `other` |
@@ -81,13 +81,13 @@ Total: **34,664** lines of code across **177** files in the top 5 languages.
 | [oma_1.27.8-1_loong64-debian13.deb](https://github.com/aosc-dev/oma/releases/download/v1.27.8/oma_1.27.8-1_loong64-debian13.deb) | 5.0 MiB | `other` |
 | [oma_1.27.8-1_loong64-debian14.deb](https://github.com/aosc-dev/oma/releases/download/v1.27.8/oma_1.27.8-1_loong64-debian14.deb) | 5.0 MiB | `other` |
 
-## Improve this data
+## 改进这些数据
 
-Install metadata for oma lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `oma` is missing, out of date, or installs incorrectly, please open an issue or PR there:
+oma 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `oma` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
 
-- **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/oma.yml> (or whichever path the index uses)
+- **提交 issue**: <https://github.com/x-cmd/install/issues/new>
+- **编辑包条目**: <https://github.com/x-cmd/install/edit/main/oma.yml>（或索引实际使用的路径）
 
-The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
+本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T23:52:40Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T23:52:40Z._
