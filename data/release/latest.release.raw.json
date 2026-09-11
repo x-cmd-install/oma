@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 5955320,
       "digest": "sha256:3d3d26d45751f88b217df680ea31d9647e874a88bb9be30be531a6ca66d40072",
-      "download_count": 7,
+      "download_count": 8,
       "created_at": "2026-08-27T02:41:05Z",
       "updated_at": "2026-08-27T02:41:06Z",
       "browser_download_url": "https://github.com/AOSC-Dev/oma/releases/download/v1.27.8/oma_1.27.8-1_amd64-debian11.deb"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 5313292,
       "digest": "sha256:d952c15ecf2c7fc245b37c04e6c3fbc54352ca6f9eeabdab4c66636e6a5b6364",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-08-27T02:38:32Z",
       "updated_at": "2026-08-27T02:38:33Z",
       "browser_download_url": "https://github.com/AOSC-Dev/oma/releases/download/v1.27.8/oma_1.27.8-1_arm64-ubuntu22.04.deb"
@@ -823,7 +823,7 @@
       "state": "uploaded",
       "size": 5271712,
       "digest": "sha256:79b28b71d8d859380abec81a31c70b25b9d3a1e7c0295962f1ae49ed3d430f46",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-08-27T02:54:33Z",
       "updated_at": "2026-08-27T02:54:33Z",
       "browser_download_url": "https://github.com/AOSC-Dev/oma/releases/download/v1.27.8/oma_1.27.8-1_loong64-debian14.deb"
