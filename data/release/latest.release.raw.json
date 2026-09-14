@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 5955320,
       "digest": "sha256:3d3d26d45751f88b217df680ea31d9647e874a88bb9be30be531a6ca66d40072",
-      "download_count": 10,
+      "download_count": 11,
       "created_at": "2026-08-27T02:41:05Z",
       "updated_at": "2026-08-27T02:41:06Z",
       "browser_download_url": "https://github.com/AOSC-Dev/oma/releases/download/v1.27.8/oma_1.27.8-1_amd64-debian11.deb"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 5983856,
       "digest": "sha256:de4f653392b67494a06e9e98cb6a31ef2a9ef76989fcecad58a8b63a93541c28",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-08-27T02:41:06Z",
       "updated_at": "2026-08-27T02:41:07Z",
       "browser_download_url": "https://github.com/AOSC-Dev/oma/releases/download/v1.27.8/oma_1.27.8-1_amd64-debian12.deb"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 6021356,
       "digest": "sha256:afa4bcf699b30f6d3eda32af73ad1617945a21610762584d40c8ca382fac475a",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-08-27T02:41:08Z",
       "updated_at": "2026-08-27T02:41:09Z",
       "browser_download_url": "https://github.com/AOSC-Dev/oma/releases/download/v1.27.8/oma_1.27.8-1_amd64-debian14.deb"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 5984796,
       "digest": "sha256:e7d05faaeaa0f596181ddc92567b27c5d0c25513fea93bc6bd8f1917e95a125a",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-08-27T02:41:09Z",
       "updated_at": "2026-08-27T02:41:10Z",
       "browser_download_url": "https://github.com/AOSC-Dev/oma/releases/download/v1.27.8/oma_1.27.8-1_amd64-deepin23.deb"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 5315536,
       "digest": "sha256:0f243d711fed59c10cc650deceb1e49fb96d1b9685e5ad36c1c524d01b913721",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-08-27T02:38:30Z",
       "updated_at": "2026-08-27T02:38:30Z",
       "browser_download_url": "https://github.com/AOSC-Dev/oma/releases/download/v1.27.8/oma_1.27.8-1_arm64-deepin23.deb"
