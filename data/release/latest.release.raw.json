@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 5955320,
       "digest": "sha256:3d3d26d45751f88b217df680ea31d9647e874a88bb9be30be531a6ca66d40072",
-      "download_count": 11,
+      "download_count": 12,
       "created_at": "2026-08-27T02:41:05Z",
       "updated_at": "2026-08-27T02:41:06Z",
       "browser_download_url": "https://github.com/AOSC-Dev/oma/releases/download/v1.27.8/oma_1.27.8-1_amd64-debian11.deb"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 5964380,
       "digest": "sha256:f37d33655e871c23fa12c8e775b9e47d35df466382ffd53c0897446e0eb192f9",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-08-27T02:41:11Z",
       "updated_at": "2026-08-27T02:41:11Z",
       "browser_download_url": "https://github.com/AOSC-Dev/oma/releases/download/v1.27.8/oma_1.27.8-1_amd64-ubuntu20.04.deb"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 6026896,
       "digest": "sha256:edb54285fef95d02cffb8be6130e8781ce0c8938ba0379cc4ad77ba88ebccc45",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-08-27T02:41:13Z",
       "updated_at": "2026-08-27T02:41:14Z",
       "browser_download_url": "https://github.com/AOSC-Dev/oma/releases/download/v1.27.8/oma_1.27.8-1_amd64-ubuntu26.04.deb"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 5410044,
       "digest": "sha256:75affea6c71b6fde8cbcd1c7eb132be1449d03b73610f727b27e9cf95bc76dc3",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-08-27T02:38:29Z",
       "updated_at": "2026-08-27T02:38:30Z",
       "browser_download_url": "https://github.com/AOSC-Dev/oma/releases/download/v1.27.8/oma_1.27.8-1_arm64-debian14.deb"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 5324244,
       "digest": "sha256:a4358d13100a166af2623feae4afeca2d17e081ab47d99cd9b1bf8a18a520448",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-08-27T02:38:31Z",
       "updated_at": "2026-08-27T02:38:31Z",
       "browser_download_url": "https://github.com/AOSC-Dev/oma/releases/download/v1.27.8/oma_1.27.8-1_arm64-openkylin2.0.deb"
