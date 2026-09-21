@@ -41,18 +41,18 @@ Total: **34,684** lines of code across **177** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 304 · **Merged PRs**: 733 · **Open PRs**: 15 · **Closed issues**: 34 · **Open issues**: 4 · **Commits**: 4989
+- **Releases**: 304 · **Merged PRs**: 733 · **Open PRs**: 16 · **Closed issues**: 34 · **Open issues**: 4 · **Commits**: 4989
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-21 | 3 | 5 | 0 | 0 | 0 | 10 |
-| last60d | 2026-07-22 | 8 | 23 | 2 | 1 | 0 | 127 |
-| 90d | 2026-06-22 | 13 | 42 | 6 | 1 | 0 | 236 |
-| last180d | 2026-03-24 | 24 | 94 | 7 | 2 | 1 | 368 |
-| 360d | 2025-09-25 | 56 | 220 | 10 | 8 | 3 | 666 |
-| last720d | 2024-09-30 | 100 | 612 | 14 | 29 | 4 | 2102 |
+| 30d | 2026-08-22 | 3 | 4 | 1 | 0 | 0 | 10 |
+| last60d | 2026-07-23 | 8 | 23 | 3 | 1 | 0 | 127 |
+| 90d | 2026-06-23 | 13 | 41 | 7 | 1 | 0 | 236 |
+| last180d | 2026-03-25 | 24 | 91 | 8 | 2 | 1 | 368 |
+| 360d | 2025-09-26 | 56 | 219 | 11 | 8 | 3 | 666 |
+| last720d | 2024-10-01 | 100 | 612 | 15 | 29 | 4 | 2083 |
 
 ## Release assets
 
@@ -70,4 +70,4 @@ Install metadata for oma lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260920.yml` · 2026-09-20T06:20:10Z._
+_Snapshot: `data/card/260921.yml` · 2026-09-21T06:24:11Z._
