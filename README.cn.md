@@ -4,7 +4,7 @@
 
 Package Manager for AOSC OS
 
-[![x-cmd/install — oma Code Quality Monitoring Repo Card](https://repo.x-cmd.io/oma.svg?lang=zh)](https://x-cmd.com/install/oma)
+[![x-cmd/install — oma Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/oma.svg?lang=zh)](https://x-cmd.com/install/oma)
 
 ## 安装
 
@@ -14,14 +14,14 @@ x install oma
 
 ## 代码洞察
 
-合计: **34,684** 行代码（覆盖前 5 种语言、共 **177** 个文件）。
+合计: **34,972** 行代码（覆盖前 5 种语言、共 **177** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Rust | 29,114 | 686 | 4,594 | 141 |
+| Rust | 29,397 | 706 | 4,655 | 141 |
 | C | 1,463 | 1 | 22 | 1 |
-| FreeMarker | 1,351 | 0 | 3 | 3 |
-| Toml | 918 | 200 | 72 | 26 |
+| FreeMarker | 1,364 | 0 | 3 | 3 |
+| Toml | 917 | 200 | 72 | 26 |
 | Json | 668 | 0 | 0 | 6 |
 
 ## 源代码
@@ -31,35 +31,27 @@ x install oma
 
 ## 发布
 
-- **最新版本**: `v1.27.9` (2026-09-17)
-- **最近提交**: 2026-09-17
-- **Release 含资产**: 2 个
+- **最新版本**: `v1.28.0-rc.1` (2026-09-23)
+- **最近提交**: 2026-09-23
 
 ## 流行度
 
-- **Star**: 237 · **Fork**: 18 · **开放 issue**: 38 · **贡献者**: 115
+- **Star**: 238 · **Fork**: 18 · **开放 issue**: 38 · **贡献者**: 115
 
 ## 累计统计
 
-- **发布数**: 304 · **已合并 PR**: 733 · **开放 PR**: 16 · **已关闭 issue**: 34 · **开放 issue**: 4 · **提交数**: 4989
+- **发布数**: 305 · **已合并 PR**: 734 · **开放 PR**: 15 · **已关闭 issue**: 34 · **开放 issue**: 4 · **提交数**: 5007
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 3 | 4 | 1 | 0 | 0 | 10 |
-| last60d | 2026-07-24 | 8 | 20 | 3 | 1 | 0 | 127 |
-| 90d | 2026-06-24 | 13 | 41 | 7 | 1 | 0 | 236 |
-| last180d | 2026-03-26 | 24 | 89 | 8 | 2 | 1 | 368 |
-| 360d | 2025-09-27 | 55 | 219 | 11 | 8 | 3 | 666 |
-| last720d | 2024-10-02 | 100 | 611 | 15 | 29 | 4 | 2083 |
-
-## Release 资产
-
-| 资产 | 大小 | 目标平台 |
-|------|-----:|----------|
-| [oma_1.27.9-1_loong64-debian13.deb](https://github.com/aosc-dev/oma/releases/download/v1.27.9/oma_1.27.9-1_loong64-debian13.deb) | 5.0 MiB | `other` |
-| [oma_1.27.9-1_loong64-debian14.deb](https://github.com/aosc-dev/oma/releases/download/v1.27.9/oma_1.27.9-1_loong64-debian14.deb) | 5.0 MiB | `other` |
+| 30d | 2026-08-24 | 4 | 4 | 0 | 0 | 0 | 25 |
+| last60d | 2026-07-25 | 9 | 20 | 2 | 1 | 0 | 142 |
+| 90d | 2026-06-25 | 14 | 41 | 6 | 1 | 0 | 251 |
+| last180d | 2026-03-27 | 25 | 90 | 7 | 2 | 1 | 383 |
+| 360d | 2025-09-28 | 56 | 214 | 10 | 8 | 3 | 681 |
+| last720d | 2024-10-03 | 100 | 612 | 14 | 29 | 4 | 2099 |
 
 ## 改进这些数据
 
@@ -70,4 +62,4 @@ oma 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T06:21:14Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T06:31:59Z._
