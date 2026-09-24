@@ -31,8 +31,9 @@ x install oma
 
 ## 发布
 
-- **最新版本**: `v1.28.0-rc.1` (2026-09-23)
+- **最新版本**: `v1.28.0-rc.2` (2026-09-23)
 - **最近提交**: 2026-09-23
+- **Release 含资产**: 20 个
 
 ## 流行度
 
@@ -40,18 +41,43 @@ x install oma
 
 ## 累计统计
 
-- **发布数**: 305 · **已合并 PR**: 734 · **开放 PR**: 15 · **已关闭 issue**: 34 · **开放 issue**: 4 · **提交数**: 5007
+- **发布数**: 306 · **已合并 PR**: 734 · **开放 PR**: 15 · **已关闭 issue**: 34 · **开放 issue**: 4 · **提交数**: 5008
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-24 | 4 | 4 | 0 | 0 | 0 | 25 |
-| last60d | 2026-07-25 | 9 | 20 | 2 | 1 | 0 | 142 |
-| 90d | 2026-06-25 | 14 | 41 | 6 | 1 | 0 | 251 |
-| last180d | 2026-03-27 | 25 | 90 | 7 | 2 | 1 | 383 |
-| 360d | 2025-09-28 | 56 | 214 | 10 | 8 | 3 | 681 |
-| last720d | 2024-10-03 | 100 | 612 | 14 | 29 | 4 | 2099 |
+| 30d | 2026-08-25 | 4 | 4 | 0 | 0 | 0 | 25 |
+| last60d | 2026-07-26 | 10 | 20 | 2 | 1 | 0 | 142 |
+| 90d | 2026-06-26 | 15 | 41 | 6 | 1 | 0 | 251 |
+| last180d | 2026-03-28 | 26 | 90 | 7 | 2 | 1 | 383 |
+| 360d | 2025-09-29 | 57 | 213 | 10 | 8 | 3 | 681 |
+| last720d | 2024-10-04 | 100 | 612 | 14 | 29 | 4 | 2100 |
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [oma_1.28.0.rc.2-1_amd64-debian12.deb](https://github.com/aosc-dev/oma/releases/download/v1.28.0-rc.2/oma_1.28.0.rc.2-1_amd64-debian12.deb) | 5.9 MiB | `other` |
+| [oma_1.28.0.rc.2-1_amd64-debian13.deb](https://github.com/aosc-dev/oma/releases/download/v1.28.0-rc.2/oma_1.28.0.rc.2-1_amd64-debian13.deb) | 5.9 MiB | `other` |
+| [oma_1.28.0.rc.2-1_amd64-debian14.deb](https://github.com/aosc-dev/oma/releases/download/v1.28.0-rc.2/oma_1.28.0.rc.2-1_amd64-debian14.deb) | 6.0 MiB | `other` |
+| [oma_1.28.0.rc.2-1_amd64-deepin23.deb](https://github.com/aosc-dev/oma/releases/download/v1.28.0-rc.2/oma_1.28.0.rc.2-1_amd64-deepin23.deb) | 5.9 MiB | `other` |
+| [oma_1.28.0.rc.2-1_amd64-openkylin2.0.deb](https://github.com/aosc-dev/oma/releases/download/v1.28.0-rc.2/oma_1.28.0.rc.2-1_amd64-openkylin2.0.deb) | 5.9 MiB | `other` |
+| [oma_1.28.0.rc.2-1_amd64-ubuntu20.04.deb](https://github.com/aosc-dev/oma/releases/download/v1.28.0-rc.2/oma_1.28.0.rc.2-1_amd64-ubuntu20.04.deb) | 5.9 MiB | `other` |
+| [oma_1.28.0.rc.2-1_amd64-ubuntu22.04.deb](https://github.com/aosc-dev/oma/releases/download/v1.28.0-rc.2/oma_1.28.0.rc.2-1_amd64-ubuntu22.04.deb) | 5.9 MiB | `other` |
+| [oma_1.28.0.rc.2-1_amd64-ubuntu24.04.deb](https://github.com/aosc-dev/oma/releases/download/v1.28.0-rc.2/oma_1.28.0.rc.2-1_amd64-ubuntu24.04.deb) | 5.9 MiB | `other` |
+| [oma_1.28.0.rc.2-1_amd64-ubuntu26.04.deb](https://github.com/aosc-dev/oma/releases/download/v1.28.0-rc.2/oma_1.28.0.rc.2-1_amd64-ubuntu26.04.deb) | 5.9 MiB | `other` |
+| [oma_1.28.0.rc.2-1_arm64-debian12.deb](https://github.com/aosc-dev/oma/releases/download/v1.28.0-rc.2/oma_1.28.0.rc.2-1_arm64-debian12.deb) | 5.2 MiB | `other` |
+| [oma_1.28.0.rc.2-1_arm64-debian13.deb](https://github.com/aosc-dev/oma/releases/download/v1.28.0-rc.2/oma_1.28.0.rc.2-1_arm64-debian13.deb) | 5.3 MiB | `other` |
+| [oma_1.28.0.rc.2-1_arm64-debian14.deb](https://github.com/aosc-dev/oma/releases/download/v1.28.0-rc.2/oma_1.28.0.rc.2-1_arm64-debian14.deb) | 5.3 MiB | `other` |
+| [oma_1.28.0.rc.2-1_arm64-deepin23.deb](https://github.com/aosc-dev/oma/releases/download/v1.28.0-rc.2/oma_1.28.0.rc.2-1_arm64-deepin23.deb) | 5.2 MiB | `other` |
+| [oma_1.28.0.rc.2-1_arm64-openkylin2.0.deb](https://github.com/aosc-dev/oma/releases/download/v1.28.0-rc.2/oma_1.28.0.rc.2-1_arm64-openkylin2.0.deb) | 5.2 MiB | `other` |
+| [oma_1.28.0.rc.2-1_arm64-ubuntu20.04.deb](https://github.com/aosc-dev/oma/releases/download/v1.28.0-rc.2/oma_1.28.0.rc.2-1_arm64-ubuntu20.04.deb) | 5.2 MiB | `other` |
+| [oma_1.28.0.rc.2-1_arm64-ubuntu22.04.deb](https://github.com/aosc-dev/oma/releases/download/v1.28.0-rc.2/oma_1.28.0.rc.2-1_arm64-ubuntu22.04.deb) | 5.2 MiB | `other` |
+| [oma_1.28.0.rc.2-1_arm64-ubuntu24.04.deb](https://github.com/aosc-dev/oma/releases/download/v1.28.0-rc.2/oma_1.28.0.rc.2-1_arm64-ubuntu24.04.deb) | 5.2 MiB | `other` |
+| [oma_1.28.0.rc.2-1_arm64-ubuntu26.04.deb](https://github.com/aosc-dev/oma/releases/download/v1.28.0-rc.2/oma_1.28.0.rc.2-1_arm64-ubuntu26.04.deb) | 5.3 MiB | `other` |
+| [oma_1.28.0.rc.2-1_loong64-debian13.deb](https://github.com/aosc-dev/oma/releases/download/v1.28.0-rc.2/oma_1.28.0.rc.2-1_loong64-debian13.deb) | 5.1 MiB | `other` |
+| [oma_1.28.0.rc.2-1_loong64-debian14.deb](https://github.com/aosc-dev/oma/releases/download/v1.28.0-rc.2/oma_1.28.0.rc.2-1_loong64-debian14.deb) | 5.2 MiB | `other` |
 
 ## 改进这些数据
 
@@ -62,4 +88,4 @@ oma 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260923.yml` · 2026-09-23T06:31:59Z._
+_数据快照: `data/card/260924.yml` · 2026-09-24T05:52:05Z._

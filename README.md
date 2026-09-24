@@ -31,8 +31,9 @@ Total: **34,972** lines of code across **177** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v1.28.0-rc.1` (2026-09-23)
+- **Latest**: `v1.28.0-rc.2` (2026-09-23)
 - **Last commit**: 2026-09-23
+- **Assets in release**: 20
 
 ## Popularity
 
@@ -40,18 +41,43 @@ Total: **34,972** lines of code across **177** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 305 · **Merged PRs**: 734 · **Open PRs**: 15 · **Closed issues**: 34 · **Open issues**: 4 · **Commits**: 5007
+- **Releases**: 306 · **Merged PRs**: 734 · **Open PRs**: 15 · **Closed issues**: 34 · **Open issues**: 4 · **Commits**: 5008
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-24 | 4 | 4 | 0 | 0 | 0 | 25 |
-| last60d | 2026-07-25 | 9 | 20 | 2 | 1 | 0 | 142 |
-| 90d | 2026-06-25 | 14 | 41 | 6 | 1 | 0 | 251 |
-| last180d | 2026-03-27 | 25 | 90 | 7 | 2 | 1 | 383 |
-| 360d | 2025-09-28 | 56 | 214 | 10 | 8 | 3 | 681 |
-| last720d | 2024-10-03 | 100 | 612 | 14 | 29 | 4 | 2099 |
+| 30d | 2026-08-25 | 4 | 4 | 0 | 0 | 0 | 25 |
+| last60d | 2026-07-26 | 10 | 20 | 2 | 1 | 0 | 142 |
+| 90d | 2026-06-26 | 15 | 41 | 6 | 1 | 0 | 251 |
+| last180d | 2026-03-28 | 26 | 90 | 7 | 2 | 1 | 383 |
+| 360d | 2025-09-29 | 57 | 213 | 10 | 8 | 3 | 681 |
+| last720d | 2024-10-04 | 100 | 612 | 14 | 29 | 4 | 2100 |
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [oma_1.28.0.rc.2-1_amd64-debian12.deb](https://github.com/aosc-dev/oma/releases/download/v1.28.0-rc.2/oma_1.28.0.rc.2-1_amd64-debian12.deb) | 5.9 MiB | `other` |
+| [oma_1.28.0.rc.2-1_amd64-debian13.deb](https://github.com/aosc-dev/oma/releases/download/v1.28.0-rc.2/oma_1.28.0.rc.2-1_amd64-debian13.deb) | 5.9 MiB | `other` |
+| [oma_1.28.0.rc.2-1_amd64-debian14.deb](https://github.com/aosc-dev/oma/releases/download/v1.28.0-rc.2/oma_1.28.0.rc.2-1_amd64-debian14.deb) | 6.0 MiB | `other` |
+| [oma_1.28.0.rc.2-1_amd64-deepin23.deb](https://github.com/aosc-dev/oma/releases/download/v1.28.0-rc.2/oma_1.28.0.rc.2-1_amd64-deepin23.deb) | 5.9 MiB | `other` |
+| [oma_1.28.0.rc.2-1_amd64-openkylin2.0.deb](https://github.com/aosc-dev/oma/releases/download/v1.28.0-rc.2/oma_1.28.0.rc.2-1_amd64-openkylin2.0.deb) | 5.9 MiB | `other` |
+| [oma_1.28.0.rc.2-1_amd64-ubuntu20.04.deb](https://github.com/aosc-dev/oma/releases/download/v1.28.0-rc.2/oma_1.28.0.rc.2-1_amd64-ubuntu20.04.deb) | 5.9 MiB | `other` |
+| [oma_1.28.0.rc.2-1_amd64-ubuntu22.04.deb](https://github.com/aosc-dev/oma/releases/download/v1.28.0-rc.2/oma_1.28.0.rc.2-1_amd64-ubuntu22.04.deb) | 5.9 MiB | `other` |
+| [oma_1.28.0.rc.2-1_amd64-ubuntu24.04.deb](https://github.com/aosc-dev/oma/releases/download/v1.28.0-rc.2/oma_1.28.0.rc.2-1_amd64-ubuntu24.04.deb) | 5.9 MiB | `other` |
+| [oma_1.28.0.rc.2-1_amd64-ubuntu26.04.deb](https://github.com/aosc-dev/oma/releases/download/v1.28.0-rc.2/oma_1.28.0.rc.2-1_amd64-ubuntu26.04.deb) | 5.9 MiB | `other` |
+| [oma_1.28.0.rc.2-1_arm64-debian12.deb](https://github.com/aosc-dev/oma/releases/download/v1.28.0-rc.2/oma_1.28.0.rc.2-1_arm64-debian12.deb) | 5.2 MiB | `other` |
+| [oma_1.28.0.rc.2-1_arm64-debian13.deb](https://github.com/aosc-dev/oma/releases/download/v1.28.0-rc.2/oma_1.28.0.rc.2-1_arm64-debian13.deb) | 5.3 MiB | `other` |
+| [oma_1.28.0.rc.2-1_arm64-debian14.deb](https://github.com/aosc-dev/oma/releases/download/v1.28.0-rc.2/oma_1.28.0.rc.2-1_arm64-debian14.deb) | 5.3 MiB | `other` |
+| [oma_1.28.0.rc.2-1_arm64-deepin23.deb](https://github.com/aosc-dev/oma/releases/download/v1.28.0-rc.2/oma_1.28.0.rc.2-1_arm64-deepin23.deb) | 5.2 MiB | `other` |
+| [oma_1.28.0.rc.2-1_arm64-openkylin2.0.deb](https://github.com/aosc-dev/oma/releases/download/v1.28.0-rc.2/oma_1.28.0.rc.2-1_arm64-openkylin2.0.deb) | 5.2 MiB | `other` |
+| [oma_1.28.0.rc.2-1_arm64-ubuntu20.04.deb](https://github.com/aosc-dev/oma/releases/download/v1.28.0-rc.2/oma_1.28.0.rc.2-1_arm64-ubuntu20.04.deb) | 5.2 MiB | `other` |
+| [oma_1.28.0.rc.2-1_arm64-ubuntu22.04.deb](https://github.com/aosc-dev/oma/releases/download/v1.28.0-rc.2/oma_1.28.0.rc.2-1_arm64-ubuntu22.04.deb) | 5.2 MiB | `other` |
+| [oma_1.28.0.rc.2-1_arm64-ubuntu24.04.deb](https://github.com/aosc-dev/oma/releases/download/v1.28.0-rc.2/oma_1.28.0.rc.2-1_arm64-ubuntu24.04.deb) | 5.2 MiB | `other` |
+| [oma_1.28.0.rc.2-1_arm64-ubuntu26.04.deb](https://github.com/aosc-dev/oma/releases/download/v1.28.0-rc.2/oma_1.28.0.rc.2-1_arm64-ubuntu26.04.deb) | 5.3 MiB | `other` |
+| [oma_1.28.0.rc.2-1_loong64-debian13.deb](https://github.com/aosc-dev/oma/releases/download/v1.28.0-rc.2/oma_1.28.0.rc.2-1_loong64-debian13.deb) | 5.1 MiB | `other` |
+| [oma_1.28.0.rc.2-1_loong64-debian14.deb](https://github.com/aosc-dev/oma/releases/download/v1.28.0-rc.2/oma_1.28.0.rc.2-1_loong64-debian14.deb) | 5.2 MiB | `other` |
 
 ## Improve this data
 
@@ -62,4 +88,4 @@ Install metadata for oma lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260923.yml` · 2026-09-23T06:31:59Z._
+_Snapshot: `data/card/260924.yml` · 2026-09-24T05:52:05Z._
