@@ -37,7 +37,7 @@ Total: **34,972** lines of code across **177** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 239 · **Forks**: 18 · **Open issues**: 38 · **Contributors**: 115
+- **Stars**: 240 · **Forks**: 18 · **Open issues**: 38 · **Contributors**: 115
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **34,972** lines of code across **177** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-31 | 3 | 3 | 1 | 0 | 0 | 19 |
-| last60d | 2026-08-01 | 10 | 18 | 1 | 1 | 0 | 115 |
-| 90d | 2026-07-02 | 14 | 33 | 7 | 1 | 0 | 226 |
-| last180d | 2026-04-03 | 24 | 85 | 8 | 2 | 1 | 375 |
-| 360d | 2025-10-05 | 57 | 212 | 11 | 8 | 3 | 680 |
-| last720d | 2024-10-10 | 100 | 600 | 15 | 29 | 4 | 2072 |
+| 30d | 2026-09-01 | 3 | 2 | 1 | 0 | 0 | 19 |
+| last60d | 2026-08-02 | 9 | 17 | 1 | 1 | 0 | 115 |
+| 90d | 2026-07-03 | 14 | 33 | 7 | 1 | 0 | 226 |
+| last180d | 2026-04-04 | 24 | 85 | 8 | 2 | 1 | 375 |
+| 360d | 2025-10-06 | 57 | 212 | 11 | 8 | 3 | 680 |
+| last720d | 2024-10-11 | 100 | 597 | 15 | 28 | 4 | 2066 |
 
 ## Release assets
 
@@ -88,4 +88,4 @@ Install metadata for oma lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260930.yml` · 2026-09-30T06:48:00Z._
+_Snapshot: `data/card/261001.yml` · 2026-10-01T07:10:23Z._
