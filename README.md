@@ -32,27 +32,27 @@ Total: **34,972** lines of code across **177** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.28.0-rc.2` (2026-09-23)
-- **Last commit**: 2026-10-10
+- **Last commit**: 2026-10-13
 - **Assets in release**: 20
 
 ## Popularity
 
-- **Stars**: 239 · **Forks**: 18 · **Open issues**: 39 · **Contributors**: 115
+- **Stars**: 240 · **Forks**: 18 · **Open issues**: 39 · **Contributors**: 115
 
 ## Totals (cumulative)
 
-- **Releases**: 306 · **Merged PRs**: 734 · **Open PRs**: 16 · **Closed issues**: 34 · **Open issues**: 5 · **Commits**: 5011
+- **Releases**: 306 · **Merged PRs**: 735 · **Open PRs**: 19 · **Closed issues**: 35 · **Open issues**: 4 · **Commits**: 5012
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-13 | 3 | 1 | 1 | 0 | 1 | 13 |
-| last60d | 2026-08-14 | 8 | 13 | 1 | 0 | 1 | 79 |
-| 90d | 2026-07-15 | 11 | 27 | 6 | 1 | 1 | 197 |
-| last180d | 2026-04-16 | 23 | 81 | 7 | 2 | 2 | 361 |
-| 360d | 2025-10-18 | 53 | 204 | 11 | 7 | 4 | 640 |
-| last720d | 2024-10-23 | 100 | 576 | 15 | 27 | 5 | 2023 |
+| 30d | 2026-09-14 | 3 | 2 | 6 | 1 | 0 | 14 |
+| last60d | 2026-08-15 | 8 | 13 | 6 | 1 | 0 | 80 |
+| 90d | 2026-07-16 | 10 | 27 | 9 | 2 | 0 | 198 |
+| last180d | 2026-04-17 | 23 | 82 | 10 | 3 | 1 | 362 |
+| 360d | 2025-10-19 | 53 | 205 | 14 | 8 | 3 | 641 |
+| last720d | 2024-10-24 | 100 | 577 | 18 | 28 | 4 | 2019 |
 
 ## Release assets
 
@@ -88,4 +88,4 @@ Install metadata for oma lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261013.yml` · 2026-10-13T08:01:32Z._
+_Snapshot: `data/card/261014.yml` · 2026-10-14T06:05:00Z._
