@@ -47,12 +47,12 @@ Total: **35,466** lines of code across **177** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-24 | 2 | 4 | 6 | 2 | 0 | 25 |
-| last60d | 2026-08-25 | 6 | 8 | 7 | 2 | 0 | 56 |
-| 90d | 2026-07-26 | 12 | 24 | 8 | 3 | 0 | 167 |
-| last180d | 2026-04-27 | 25 | 82 | 11 | 4 | 1 | 383 |
-| 360d | 2025-10-29 | 50 | 199 | 15 | 9 | 3 | 641 |
-| last720d | 2024-11-03 | 100 | 559 | 19 | 26 | 4 | 1979 |
+| 30d | 2026-09-25 | 2 | 4 | 6 | 2 | 0 | 25 |
+| last60d | 2026-08-26 | 6 | 7 | 7 | 2 | 0 | 44 |
+| 90d | 2026-07-27 | 12 | 24 | 8 | 3 | 0 | 156 |
+| last180d | 2026-04-28 | 25 | 77 | 11 | 4 | 1 | 368 |
+| 360d | 2025-10-30 | 50 | 199 | 15 | 9 | 3 | 640 |
+| last720d | 2024-11-04 | 100 | 558 | 19 | 25 | 4 | 1978 |
 
 ## Release assets
 
@@ -86,4 +86,4 @@ Install metadata for oma lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261024.yml` · 2026-10-24T05:43:22Z._
+_Snapshot: `data/card/261025.yml` · 2026-10-25T05:44:06Z._
