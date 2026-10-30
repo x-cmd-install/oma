@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 6207252,
       "digest": "sha256:c34607509a3af865dd1529351382b0e2d62e8782eba751d10a583eaf855b11b5",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-10-22T02:50:36Z",
       "updated_at": "2026-10-22T02:50:37Z",
       "browser_download_url": "https://github.com/AOSC-Dev/oma/releases/download/v1.28.2/oma_1.28.2-1_amd64-debian12.deb"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 6208684,
       "digest": "sha256:4863f9a9127c6cc59ec861014a77e53a9b56c9a8ff09761a67398ebc28ae38da",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-10-22T02:50:39Z",
       "updated_at": "2026-10-22T02:50:40Z",
       "browser_download_url": "https://github.com/AOSC-Dev/oma/releases/download/v1.28.2/oma_1.28.2-1_amd64-deepin23.deb"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 6208420,
       "digest": "sha256:10674d202fd8d31e5867b0323c38105038cac9badf1abd820f30f298d4d0a412",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-10-22T02:50:40Z",
       "updated_at": "2026-10-22T02:50:41Z",
       "browser_download_url": "https://github.com/AOSC-Dev/oma/releases/download/v1.28.2/oma_1.28.2-1_amd64-openkylin2.0.deb"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 6190084,
       "digest": "sha256:0fcc6a6b53e55dbaf5b5cdb5f30e7e975e23af04a0127a2fc80a0a5f1e31152d",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-10-22T02:50:41Z",
       "updated_at": "2026-10-22T02:50:42Z",
       "browser_download_url": "https://github.com/AOSC-Dev/oma/releases/download/v1.28.2/oma_1.28.2-1_amd64-ubuntu20.04.deb"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 6223908,
       "digest": "sha256:dac29710dcd68d99cf8100e861e9c930fd36e0e89244d13e46e7bd4bcc2fbd7a",
-      "download_count": 8,
+      "download_count": 10,
       "created_at": "2026-10-22T02:50:43Z",
       "updated_at": "2026-10-22T02:50:44Z",
       "browser_download_url": "https://github.com/AOSC-Dev/oma/releases/download/v1.28.2/oma_1.28.2-1_amd64-ubuntu24.04.deb"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 5598648,
       "digest": "sha256:1005e919cf22f2eb260e950aa374b26c2ce82fd7e42bc2cb58ff77255b1b4940",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-10-22T02:47:49Z",
       "updated_at": "2026-10-22T02:47:50Z",
       "browser_download_url": "https://github.com/AOSC-Dev/oma/releases/download/v1.28.2/oma_1.28.2-1_arm64-debian14.deb"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 5488016,
       "digest": "sha256:504e8da96a840be93234f442d2948c8390b9db56e84bca455683ce57416742dc",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-10-22T02:47:51Z",
       "updated_at": "2026-10-22T02:47:52Z",
       "browser_download_url": "https://github.com/AOSC-Dev/oma/releases/download/v1.28.2/oma_1.28.2-1_arm64-openkylin2.0.deb"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 5482012,
       "digest": "sha256:d045303576b7c82c46262ae8ef0631a9e9f7e379bd5d04055763403b4f3dd705",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-10-22T02:47:52Z",
       "updated_at": "2026-10-22T02:47:53Z",
       "browser_download_url": "https://github.com/AOSC-Dev/oma/releases/download/v1.28.2/oma_1.28.2-1_arm64-ubuntu20.04.deb"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 5596436,
       "digest": "sha256:7799694ea64b2353a6b7580e9845a6677deeb6bfbf83588b731cf457ea58d190",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-10-22T02:47:55Z",
       "updated_at": "2026-10-22T02:47:55Z",
       "browser_download_url": "https://github.com/AOSC-Dev/oma/releases/download/v1.28.2/oma_1.28.2-1_arm64-ubuntu26.04.deb"
