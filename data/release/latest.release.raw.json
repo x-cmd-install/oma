@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 6299908,
       "digest": "sha256:409c1da22f2d54d42b47f996fde72f14c848752954847685aef7cdc0de1ded08",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-11-04T03:20:28Z",
       "updated_at": "2026-11-04T03:20:29Z",
       "browser_download_url": "https://github.com/AOSC-Dev/oma/releases/download/v1.28.3/oma_1.28.3-1_amd64-debian14.deb"
