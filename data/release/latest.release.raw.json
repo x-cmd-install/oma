@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 6299908,
       "digest": "sha256:409c1da22f2d54d42b47f996fde72f14c848752954847685aef7cdc0de1ded08",
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2026-11-04T03:20:28Z",
       "updated_at": "2026-11-04T03:20:29Z",
       "browser_download_url": "https://github.com/AOSC-Dev/oma/releases/download/v1.28.3/oma_1.28.3-1_amd64-debian14.deb"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 6196432,
       "digest": "sha256:b639dec457258dee72ecce7a299188d4ee09ad2b4631f57a9d540def06f0d672",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-11-04T03:20:32Z",
       "updated_at": "2026-11-04T03:20:32Z",
       "browser_download_url": "https://github.com/AOSC-Dev/oma/releases/download/v1.28.3/oma_1.28.3-1_amd64-ubuntu22.04.deb"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 5416696,
       "digest": "sha256:a299ba44280345b325cb81404b0f5892659b2bf2b3a20ecf92a56111d5d9c240",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-11-04T03:42:48Z",
       "updated_at": "2026-11-04T03:42:49Z",
       "browser_download_url": "https://github.com/AOSC-Dev/oma/releases/download/v1.28.3/oma_1.28.3-1_loong64-debian13.deb"
@@ -751,7 +751,7 @@
       "state": "uploaded",
       "size": 5457848,
       "digest": "sha256:8668f675f024de0da1be989bb9a5fa39333d5903b9b3afe7dcce91d67d656ff5",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-11-04T03:42:49Z",
       "updated_at": "2026-11-04T03:42:50Z",
       "browser_download_url": "https://github.com/AOSC-Dev/oma/releases/download/v1.28.3/oma_1.28.3-1_loong64-debian14.deb"
