@@ -14,14 +14,14 @@ x install oma
 
 ## Code insight
 
-Total: **37,772** lines of code across **186** files in the top 5 languages.
+Total: **37,924** lines of code across **188** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 32,207 | 802 | 5,104 | 150 |
+| Rust | 32,348 | 804 | 5,125 | 151 |
 | C | 1,463 | 1 | 22 | 1 |
 | FreeMarker | 1,373 | 0 | 3 | 3 |
-| Toml | 898 | 202 | 72 | 26 |
+| Toml | 909 | 202 | 73 | 27 |
 | Json | 668 | 0 | 0 | 6 |
 
 ## Source
@@ -41,18 +41,18 @@ Total: **37,772** lines of code across **186** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 309 · **Merged PRs**: 750 · **Open PRs**: 21 · **Closed issues**: 37 · **Open issues**: 3 · **Commits**: 5090
+- **Releases**: 309 · **Merged PRs**: 751 · **Open PRs**: 22 · **Closed issues**: 37 · **Open issues**: 3 · **Commits**: 5098
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-13 | 3 | 15 | 7 | 1 | 0 | 64 |
-| last60d | 2026-09-13 | 6 | 17 | 8 | 2 | 0 | 82 |
-| 90d | 2026-08-14 | 11 | 29 | 8 | 2 | 0 | 161 |
-| last180d | 2026-05-16 | 22 | 79 | 12 | 3 | 1 | 388 |
-| 360d | 2025-11-17 | 51 | 204 | 15 | 8 | 3 | 669 |
-| last720d | 2024-11-22 | 100 | 540 | 20 | 26 | 3 | 1866 |
+| 30d | 2026-10-14 | 3 | 16 | 3 | 0 | 0 | 71 |
+| last60d | 2026-09-14 | 6 | 18 | 9 | 2 | 0 | 89 |
+| 90d | 2026-08-15 | 11 | 29 | 9 | 2 | 0 | 168 |
+| last180d | 2026-05-17 | 22 | 80 | 13 | 3 | 1 | 395 |
+| 360d | 2025-11-18 | 51 | 205 | 16 | 8 | 3 | 676 |
+| last720d | 2024-11-23 | 100 | 539 | 21 | 25 | 3 | 1866 |
 
 ## Release assets
 
@@ -88,4 +88,4 @@ Install metadata for oma lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261112.yml` · 2026-11-12T08:52:44Z._
+_Snapshot: `data/card/261113.yml` · 2026-11-13T08:10:33Z._
