@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 6210184,
       "digest": "sha256:da6340c95543b5cb0961bc83c2b9660ab10a01c168735b3e7e46c30ef2b25427",
-      "download_count": 3,
+      "download_count": 11,
       "created_at": "2026-11-04T03:20:26Z",
       "updated_at": "2026-11-04T03:20:26Z",
       "browser_download_url": "https://github.com/AOSC-Dev/oma/releases/download/v1.28.3/oma_1.28.3-1_amd64-debian12.deb"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 6299908,
       "digest": "sha256:409c1da22f2d54d42b47f996fde72f14c848752954847685aef7cdc0de1ded08",
-      "download_count": 13,
+      "download_count": 14,
       "created_at": "2026-11-04T03:20:28Z",
       "updated_at": "2026-11-04T03:20:29Z",
       "browser_download_url": "https://github.com/AOSC-Dev/oma/releases/download/v1.28.3/oma_1.28.3-1_amd64-debian14.deb"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 6209804,
       "digest": "sha256:ac5004c382651aa02cfe75e6e93e13770b64f76507a765d1b1ec4e97c40ed8d4",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-11-04T03:20:29Z",
       "updated_at": "2026-11-04T03:20:30Z",
       "browser_download_url": "https://github.com/AOSC-Dev/oma/releases/download/v1.28.3/oma_1.28.3-1_amd64-deepin23.deb"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 6210172,
       "digest": "sha256:a409272ed0d194749bbd3ef8cb7c6764166904890e2a5a5c4d8f6478526c8614",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-11-04T03:20:30Z",
       "updated_at": "2026-11-04T03:20:31Z",
       "browser_download_url": "https://github.com/AOSC-Dev/oma/releases/download/v1.28.3/oma_1.28.3-1_amd64-openkylin2.0.deb"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 6255796,
       "digest": "sha256:2e1f9bc096431e8da46434732244dac5d77fd8221919cc9bb208f1e952b42cf8",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-11-04T03:20:34Z",
       "updated_at": "2026-11-04T03:20:34Z",
       "browser_download_url": "https://github.com/AOSC-Dev/oma/releases/download/v1.28.3/oma_1.28.3-1_amd64-ubuntu26.04.deb"
