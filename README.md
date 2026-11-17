@@ -14,11 +14,11 @@ x install oma
 
 ## Code insight
 
-Total: **37,924** lines of code across **188** files in the top 5 languages.
+Total: **37,932** lines of code across **188** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 32,348 | 804 | 5,125 | 151 |
+| Rust | 32,356 | 804 | 5,124 | 151 |
 | C | 1,463 | 1 | 22 | 1 |
 | FreeMarker | 1,373 | 0 | 3 | 3 |
 | Toml | 909 | 202 | 73 | 27 |
@@ -32,7 +32,7 @@ Total: **37,924** lines of code across **188** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.28.3` (2026-11-04)
-- **Last commit**: 2026-11-12
+- **Last commit**: 2026-11-17
 - **Assets in release**: 20
 
 ## Popularity
@@ -41,18 +41,18 @@ Total: **37,924** lines of code across **188** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 309 · **Merged PRs**: 751 · **Open PRs**: 22 · **Closed issues**: 37 · **Open issues**: 3 · **Commits**: 5098
+- **Releases**: 309 · **Merged PRs**: 753 · **Open PRs**: 22 · **Closed issues**: 37 · **Open issues**: 3 · **Commits**: 5101
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 3 | 16 | 3 | 0 | 0 | 48 |
-| last60d | 2026-09-17 | 6 | 18 | 9 | 2 | 0 | 81 |
-| 90d | 2026-08-18 | 9 | 26 | 9 | 2 | 0 | 121 |
-| last180d | 2026-05-20 | 22 | 76 | 13 | 3 | 1 | 376 |
-| 360d | 2025-11-21 | 50 | 204 | 16 | 8 | 3 | 667 |
-| last720d | 2024-11-26 | 100 | 534 | 21 | 25 | 3 | 1864 |
+| 30d | 2026-10-18 | 3 | 18 | 3 | 0 | 0 | 50 |
+| last60d | 2026-09-18 | 5 | 20 | 9 | 2 | 0 | 83 |
+| 90d | 2026-08-19 | 8 | 27 | 9 | 2 | 0 | 123 |
+| last180d | 2026-05-21 | 22 | 77 | 13 | 3 | 1 | 378 |
+| 360d | 2025-11-22 | 50 | 205 | 16 | 8 | 3 | 669 |
+| last720d | 2024-11-27 | 100 | 536 | 21 | 25 | 3 | 1865 |
 
 ## Release assets
 
@@ -88,4 +88,4 @@ Install metadata for oma lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T08:24:22Z._
+_Snapshot: `data/card/261117.yml` · 2026-11-17T11:08:00Z._
