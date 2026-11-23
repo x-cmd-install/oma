@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 5456244,
       "digest": "sha256:91a91e1d8203abe9d94528702f444e5ca0f0b84c328beb5a7ecb738756858458",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-11-18T10:39:10Z",
       "updated_at": "2026-11-18T10:39:11Z",
       "browser_download_url": "https://github.com/AOSC-Dev/oma/releases/download/v1.28.4/oma_1.28.4-1_loong64-debian14.deb"
